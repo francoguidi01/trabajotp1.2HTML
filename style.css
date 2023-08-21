@@ -1,0 +1,92 @@
+body{
+    width: 80%;
+    height: 600px;
+    background-image: url(https://pbs.twimg.com/media/F2FOmzJXUAAD7v5?format=jpg&name=large);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+.container{
+    background-color: aquamarine;
+    padding: 20px;
+    width: 1300px;
+}
+.header {
+    background-color: #ffffff;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.links{
+    background-image: url(https://media.lacapital.com.ar/p/f0db4f9b1504b10a01df9b53c6050621/adjuntos/204/imagenes/028/327/0028327548/642x0/smart/leo-mattiolijpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom 68%;
+    background-size: 1400px;
+    padding: 20px;
+    width: 1300px;
+    color: rgba(255, 255, 255, 0.747);
+}
+.text1,.text2
+{
+    color: rgba(255, 255, 255, 0.747);
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.aside{
+    background-image: url(https://www.clarin.com/img/2017/08/09/BJ2oQA_vb_1256x620.jpg);
+    float: left;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    width: 150px;
+    height: 450px;
+}
+.section
+{
+    
+    background-color: beige;
+    background-position: right;
+    width: 400px;
+    height: 400px;
+padding: 20px;
+float: right bottom 40%;
+}
+.section2
+{
+float: right;
+}
+.article
+{
+    background-color: brown;
+    background-position: center;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+.details{
+    background-color: rgb(255, 65, 208);
+    background-position: center;
+    width: 290px;
+    height: 290px; 
+}
+.summary
+{
+    background-color: rgb(94, 255, 0);
+    background-position: center;
+    width: 200px;
+    height: 200x;  
+}
+.footer
+{
+    background-color: rgb(0, 0, 0);
+    width: auto;
+    height: auto;  
+}
